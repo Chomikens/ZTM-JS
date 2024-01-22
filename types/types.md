@@ -4,6 +4,8 @@
  - String 
  ``` js 
 const string = `Hey I'am string type`
+const singleString = 'Hey I\'am string type'
+const doubleString = "Hey I'am string type"
 ```
  - Number 
 ```js
