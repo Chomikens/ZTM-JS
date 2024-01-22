@@ -1,5 +1,0 @@
-# Content 
-- [Primitives types](https://github.com/Chomikens/ZTM-JS/blob/1-types/types/types.md)
-- [Compations](https://github.com/Chomikens/ZTM-JS/blob/1-types/types/types.md)
-- [Exercise](https://github.com/Chomikens/ZTM-JS/blob/2a-exerci/exercise-first/app.js)
-- [Solutions](https://github.com/Chomikens/ZTM-JS/blob/2a-exerci/exercise-first/app-solutions.js)
