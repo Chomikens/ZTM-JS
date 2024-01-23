@@ -1,4 +1,5 @@
 # Content 
+- [Where to put JS?](https://github.com/Chomikens/ZTM-JS/blob/0-WhereToPutJS/Where-to-put-JS/index.html)
 - [Primitives types](https://github.com/Chomikens/ZTM-JS/blob/1-types/types/types.md)
 - [Compations](https://github.com/Chomikens/ZTM-JS/blob/2-compations/comparions/comparions.md)
     - [Exercise](https://github.com/Chomikens/ZTM-JS/blob/2a-exerci/exercise-first/app.js)
