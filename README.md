@@ -8,3 +8,4 @@
 - [Control flow ](https://github.com/Chomikens/ZTM-JS/tree/4-controlFlow/control-flow)
     - [Exercise](https://github.com/Chomikens/ZTM-JS/blob/4a-exercise/exercises/app.js)
     - [Logical Operators](https://github.com/Chomikens/ZTM-JS/blob/5-logicalOperators/logical-operators.md)
+- [Functions - base ](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/function.md)
