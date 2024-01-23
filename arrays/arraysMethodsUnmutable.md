@@ -32,6 +32,12 @@ const sortedMonths = months.toSorted((a,b) => a-b);
 - ### `flat(levelofDepth)` - flat nested array 
 Create new array flated on params level 
 
+Memory Usage: Flattening a very large and deeply nested array can result in a significant increase in memory usage. If the resulting array is too large to fit into the available memory, it may cause your program to crash or run out of memory.
+
+ Performance: The performance of flat() will degrade as the size and complexity of the array increase. Flattening a large array or a deeply nested array can be computationally expensive and time-consuming.
+
+ Maximum Call Stack Size: In JavaScript, there is a limit to the size of the call stack (the number of nested calls that can be made). If you use flat(Infinity) on an extremely deeply nested array, it's theoretically possible to exceed this limit, resulting in a "Maximum call stack size exceeded" error.
+
 ```js 
 const nestedArrays =[1, 2, [3, [4, 5] /* this is second level nesting*/,], [6, 7]]
 const flatedOnOneLevel = nestedArrays.flat(1) // flat on first level -> [ 1, 2, 3, [ 4, 5 ], 6, 7 ]
