@@ -9,3 +9,4 @@
     - [Exercise](https://github.com/Chomikens/ZTM-JS/blob/4a-exercise/exercises/app.js)
     - [Logical Operators](https://github.com/Chomikens/ZTM-JS/blob/5-logicalOperators/logical-operators.md)
 - [Functions - base ](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/function.md)
+    - [Exercise](https://github.com/Chomikens/ZTM-JS/blob/6a-exercise/exercise/app.js)
