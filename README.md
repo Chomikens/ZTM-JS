@@ -10,6 +10,7 @@
 - [Arrays](https://github.com/Chomikens/ZTM-JS/blob/1-types/types/types.md)
 
 ## Variables
+### Basic
 - [Variables](https://github.com/Chomikens/ZTM-JS/blob/3-variables/variables/variables.md)
 
 ## Logic
