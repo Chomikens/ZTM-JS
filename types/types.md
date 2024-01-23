@@ -45,7 +45,7 @@ const alsoHuge = BigInt(9007199254740991);
 ## Advence types  
 
 - Object:
- - [Objects]()
+ - [Objects](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/objects.md)
  - [Arrays](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arrays.md)
 
 ## Check type of variable 
