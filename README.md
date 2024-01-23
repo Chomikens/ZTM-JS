@@ -5,4 +5,5 @@
     - [Solutions](https://github.com/Chomikens/ZTM-JS/blob/2a-exerci/exercise-first/app-solutions.js)
 - [Variables](https://github.com/Chomikens/ZTM-JS/blob/3-variables/variables/variables.md)
 - [Control flow ](https://github.com/Chomikens/ZTM-JS/tree/4-controlFlow/control-flow)
+    -[Exercise](https://github.com/Chomikens/ZTM-JS/blob/4a-exercise/exercises/app.js)
     - [Logical Operators](https://github.com/Chomikens/ZTM-JS/blob/5-logicalOperators/logical-operators.md)
