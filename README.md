@@ -11,6 +11,7 @@
     - [Intro methods](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysMethodsIntro.md)
     - [Mutable Methods](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysMethodsMutable.md)
     - [Unmutable Methods](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysMethodsUnmutable.md)
+- [Object - basics](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arrays.md)
 
 ## Variables
 ### Basic
