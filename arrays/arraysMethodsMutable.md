@@ -54,3 +54,11 @@ To fiter numbers we must use custom function like below:
 exampleArray.sort((a, b) => a - b); 
 console.log(exampleArray) // [1, 2, 3, 5, 11]
 ```
+
+- ### `reverse()` 
+Returns the reference to the same array, the first array element now becoming the last, and the last array element becoming the first. In other words, elements order in the array will be turned towards the direction opposite to that previously stated.
+
+```js
+const normalArray = [1, 2, 3, 4,]
+normalArray.reverse() // [4, 3, 2, 1]
+```
