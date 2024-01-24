@@ -16,7 +16,8 @@
     - [Immutable Methods](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysMethodsUnmutable.md)
     - [Looping](https://github.com/Chomikens/ZTM-JS/blob/9-loops/loops.md)
 - ### Arrays - advance   
-    - [Advance: Higher-Order Methods: forEach...](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysHigherOrderFunction.md)
+    - [Advance: Higher-Order Methods: forEach, map, filter...](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysHigherOrderFunction.md)
+        - [Return in forEach](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysHigherOrderFunction.md#important---return-in-foreach)
 - ### Object - basic 
     - [Object - basics](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/objects.md)
 - ### Object - advance   
@@ -32,7 +33,8 @@
     - [Functions](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/function.md)
 
 ## Loops 
- - [For, For in, For of, While, Do while](https://github.com/Chomikens/ZTM-JS/blob/9-loops/loops.md) 
+ - [For, For in, For of, While, Do while](https://github.com/Chomikens/ZTM-JS/blob/9-loops/loops.md)
+ - [Return in loops](https://github.com/Chomikens/ZTM-JS/blob/9-loops/loops-tips.md#return-in-loops) vs. [Return in forEach](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysHigherOrderFunction.md#important---return-in-foreach)
 
 ## Exercises 
 - [Logic](https://github.com/Chomikens/ZTM-JS/blob/2a-exerci/exercise-first/app-solutions.js)
