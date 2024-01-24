@@ -7,10 +7,11 @@
 - [Primitives types](https://github.com/Chomikens/ZTM-JS/blob/1-types/types/types.md)
 
 ### Advance
-- [Arrays - basics](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arrays.md)
+- [Arrays](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arrays.md)
     - [Intro methods](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysMethodsIntro.md)
     - [Mutable Methods](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysMethodsMutable.md)
-    - [Unmutable Methods](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysMethodsUnmutable.md)
+    - [Immutable Methods](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysMethodsUnmutable.md)
+    - [Higher-Order Methods: forEach...]()
 - [Object - basics](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/objects.md)
     - [`This` in object](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/this.md)
 
@@ -21,8 +22,6 @@
 ## Logic
 ### Basic
 - [Comparions](https://github.com/Chomikens/ZTM-JS/blob/2-compations/comparions/comparions.md)
-
-### Basic
 - [Control flow ](https://github.com/Chomikens/ZTM-JS/tree/4-controlFlow/control-flow)
 - [Logical Operators](https://github.com/Chomikens/ZTM-JS/blob/5-logicalOperators/logical-operators.md)
 
@@ -30,6 +29,10 @@
 
 ### Basic
 - [Functions](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/function.md)
+
+## Loops 
+ -[For, For in, For of, While, Do while](https://github.com/Chomikens/ZTM-JS/blob/9-loops/loops.md) 
+
 
 ## Exercises 
 - [Logic](https://github.com/Chomikens/ZTM-JS/blob/2a-exerci/exercise-first/app-solutions.js)
