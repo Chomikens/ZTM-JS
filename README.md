@@ -12,6 +12,7 @@
     - [Mutable Methods](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysMethodsMutable.md)
     - [Unmutable Methods](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysMethodsUnmutable.md)
 - [Object - basics](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/objects.md)
+    - [`This` in object](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/this.md)
 
 ## Variables
 ### Basic
@@ -33,3 +34,5 @@
 ### Basic
 - [Functions](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/function.md)
     - [Exercise](https://github.com/Chomikens/ZTM-JS/blob/6a-exercise/exercise/app.js)
+
+
