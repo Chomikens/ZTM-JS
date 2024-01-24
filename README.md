@@ -46,4 +46,5 @@
 - [Objects and arrays - facebook](https://github.com/Chomikens/ZTM-JS/tree/8b-project/project)
 
 # DOM
- -[DOM Selectors]()
+- [HTML Collection vs Node List](https://github.com/Chomikens/ZTM-JS/blob/10-domSelectors/DOMselectors/selectors.md)
+- [DOM Selectors](https://github.com/Chomikens/ZTM-JS/blob/10a-selectors/selectors/selectors.md)
