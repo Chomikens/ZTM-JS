@@ -3,7 +3,7 @@
  In JavaScript, the this keyword is a special variable that refers to the current context or object within which it is used. Its behavior can sometimes be a bit tricky to grasp, as it depends on how and where it is employed. Here are some important points to understand about this:
 
  ### "this" in object methods:
-When you use this inside an object method (a function that is a property of an object), it refers to the object itself. In our example, we have one methods, handleSayHi, where we use `this` - more about [this]()
+When you use this inside an object method (a function that is a property of an object), it refers to the object itself. In our example, we have one methods, handleSayHi, where we use `this` - more about [this](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/this.md)
  ```js
  const example = {
   //... 
