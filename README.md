@@ -44,3 +44,6 @@
 
 ## Projects 
 - [Objects and arrays - facebook](https://github.com/Chomikens/ZTM-JS/tree/8b-project/project)
+
+# DOM
+ -[DOM Selectors]()
