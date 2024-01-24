@@ -1,7 +1,7 @@
 # DOM selectors 
 
 - ## `getElementsByTagName('tagname')`
-    - Return: HTML Collection
+    - Return: [HTML Collection](https://github.com/Chomikens/ZTM-JS/blob/10-domSelectors/DOMselectors/selectors.md#html-collection)
     - Example: 
 ```js
  const paragraph = document.getElementsByTagName('p')
@@ -20,3 +20,5 @@
  ```js
  const paragraph = document.getElementById('intro')
  ```
+
+ https://github.com/Chomikens/ZTM-JS/blob/10-domSelectors/DOMselectors/selectors.md#nodelist
