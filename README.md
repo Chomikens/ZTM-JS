@@ -17,7 +17,7 @@
     - [Looping](https://github.com/Chomikens/ZTM-JS/blob/9-loops/loops.md)
 - ### Arrays - advance   
     - [Advance: Higher-Order Methods: forEach...](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysHigherOrderFunction.md)
-- ###  Object - basic 
+- ### Object - basic 
     - [Object - basics](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/objects.md)
 - ### Object - advance   
     - [`This` in object](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/this.md)
@@ -32,7 +32,7 @@
     - [Functions](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/function.md)
 
 ## Loops 
- -[For, For in, For of, While, Do while](https://github.com/Chomikens/ZTM-JS/blob/9-loops/loops.md) 
+ - [For, For in, For of, While, Do while](https://github.com/Chomikens/ZTM-JS/blob/9-loops/loops.md) 
 
 ## Exercises 
 - [Logic](https://github.com/Chomikens/ZTM-JS/blob/2a-exerci/exercise-first/app-solutions.js)
