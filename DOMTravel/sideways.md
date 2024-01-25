@@ -3,7 +3,7 @@
 There are three ways to traverse sideways:
 - nextElementSibling
 - previousElementSibling
-- Combining [parentElement](), [children](), and index
+- Combining [parentElement](https://github.com/Chomikens/ZTM-JS/blob/12-DOMTravel/DOMTravel/upwards.md#parentelement), [children](https://github.com/Chomikens/ZTM-JS/blob/12-DOMTravel/DOMTravel/downwards.md#children), and index
 
 
 ## nextElementSibling
