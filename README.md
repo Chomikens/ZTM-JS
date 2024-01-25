@@ -49,3 +49,5 @@
 # DOM
 - [HTML Collection vs Node List](https://github.com/Chomikens/ZTM-JS/blob/10-domSelectors/DOMselectors/selectors.md)
 - [DOM Selectors](https://github.com/Chomikens/ZTM-JS/blob/10a-selectors/selectors/selectors.md)
+- [Introduction to attributes](https://github.com/Chomikens/ZTM-JS/blob/10b-atributes/attributes/attributes.md#introduction-do-attributes)
+- [DOM attributes](https://github.com/Chomikens/ZTM-JS/blob/10b-atributes/attributes/attributes.md#getsetremove-attributes-from-dom)
