@@ -53,5 +53,5 @@
 - [Introduction to attributes](https://github.com/Chomikens/ZTM-JS/blob/10b-atributes/attributes/attributes.md#introduction-do-attributes)
 - [DOM attributes](https://github.com/Chomikens/ZTM-JS/blob/10b-atributes/attributes/attributes.md#getsetremove-attributes-from-dom)
 
-## Styling
-- [style using js inline vs classes]()
+## Styling in JS
+- [inline](https://github.com/Chomikens/ZTM-JS/blob/11-stylingJS/styling/styling-inline.md) vs [classes](https://github.com/Chomikens/ZTM-JS/blob/11-stylingJS/styling/styling-using-classes.md)
