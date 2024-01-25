@@ -55,3 +55,8 @@
 
 ## Styling in JS
 - [inline](https://github.com/Chomikens/ZTM-JS/blob/11-stylingJS/styling/styling-inline.md) vs [classes](https://github.com/Chomikens/ZTM-JS/blob/11-stylingJS/styling/styling-using-classes.md)
+
+## DOM Travels 
+ - [downwards](https://github.com/Chomikens/ZTM-JS/blob/12-DOMTravel/DOMTravel/downwards.md)
+ - [upwards](https://github.com/Chomikens/ZTM-JS/blob/12-DOMTravel/DOMTravel/upwards.md)
+ - [sideways](https://github.com/Chomikens/ZTM-JS/blob/12-DOMTravel/DOMTravel/sideways.md)
