@@ -30,7 +30,8 @@
 
 ## Functions 
 - ###  Basic
-    - [Functions](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/function.md)
+    - [Declaring](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/function.md)
+    - [Passing params as argument](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/arguments-and-params.md)
 
 ## Loops 
  - [For, For in, For of, While, Do while](https://github.com/Chomikens/ZTM-JS/blob/9-loops/loops.md)
