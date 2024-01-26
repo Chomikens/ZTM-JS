@@ -57,6 +57,13 @@
 - [inline](https://github.com/Chomikens/ZTM-JS/blob/11-stylingJS/styling/styling-inline.md) vs [classes](https://github.com/Chomikens/ZTM-JS/blob/11-stylingJS/styling/styling-using-classes.md)
 
 ## DOM Travels 
- - [downwards](https://github.com/Chomikens/ZTM-JS/blob/12-DOMTravel/DOMTravel/downwards.md)
- - [upwards](https://github.com/Chomikens/ZTM-JS/blob/12-DOMTravel/DOMTravel/upwards.md)
- - [sideways](https://github.com/Chomikens/ZTM-JS/blob/12-DOMTravel/DOMTravel/sideways.md)
+ - [Downwards](https://github.com/Chomikens/ZTM-JS/blob/12-DOMTravel/DOMTravel/downwards.md)
+ - [Upwards](https://github.com/Chomikens/ZTM-JS/blob/12-DOMTravel/DOMTravel/upwards.md)
+ - [Sideways](https://github.com/Chomikens/ZTM-JS/blob/12-DOMTravel/DOMTravel/sideways.md)
+
+## Events
+- [Events intro](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/intro.md)
+- [Default Behaviors](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/default-behaviors.md)
+- [Event propagation](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/event-propagation.md)
+- [Event delegation](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/event-delegation.md)
+- [The event loop](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/event-loop.md)
