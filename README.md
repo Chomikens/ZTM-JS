@@ -32,6 +32,8 @@
 - ###  Basic
     - [Declaring](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/function.md)
     - [Passing params as argument](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/arguments-and-params.md)
+-  ### Advanced
+    - [Callback and async code - basic](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/callbacks.md)
 
 ## Loops 
  - [For, For in, For of, While, Do while](https://github.com/Chomikens/ZTM-JS/blob/9-loops/loops.md)
@@ -62,8 +64,10 @@
  - [Sideways](https://github.com/Chomikens/ZTM-JS/blob/12-DOMTravel/DOMTravel/sideways.md)
 
 ## Events
-- [Events intro](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/intro.md)
-- [Default Behaviors](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/default-behaviors.md)
-- [Event propagation](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/event-propagation.md)
-- [Event delegation](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/event-delegation.md)
-- [The event loop](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/event-loop.md)
+- ###  Basic
+    - [Events intro](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/intro.md)
+    - [Default Behaviors](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/default-behaviors.md)
+- ###  Advanced
+    - [Event propagation](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/event-propagation.md)
+    - [Event delegation](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/event-delegation.md)
+    - [The event loop](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/event-loop.md)
