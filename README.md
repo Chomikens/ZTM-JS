@@ -71,3 +71,9 @@
     - [Event propagation](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/event-propagation.md)
     - [Event delegation](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/event-delegation.md)
     - [The event loop](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/event-loop.md)
+
+## Manipulating text and content
+- [Changing Text and HTML]()
+- [Creating HTML Elements]()
+    - [Adding multiple elements to the DOM]()
+- [Removing Elements from the DOM]()
