@@ -74,3 +74,23 @@ testFunction();
 
 In the above example, blockVariable is accessible outside the if block but still within the function, illustrating the function scope of var.
 This behavior is unique to var, as let and const respect block scope and would have resulted in a ReferenceError if used in the same way.
+
+## Block scope
+A block is a set of code contain within curly braces ({}). If you create a variable inside curly braces, that variable is scoped to the block.
+Block scope only applies to variables created with const and let. It does not apply to variables created with var.
+```js
+// For loop
+for (const item of items) {
+  // item is block-scoped
+}
+
+// if statement
+if (time === '12pm') {
+  const chimeCount = 12 // chimeCount is block-scoped
+}
+
+// A block
+{
+  const name = 'Zell' // name is block-scoped
+}
+```
