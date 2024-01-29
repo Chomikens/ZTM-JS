@@ -94,3 +94,12 @@ if (time === '12pm') {
   const name = 'Zell' // name is block-scoped
 }
 ```
+
+## Lexical scope 
+You can use a variable after you created it. But you cannot use the variable before you created it.
+This behavior is called lexical scope. 
+
+```js
+console.log(laugh) // ReferenceError: can't access lexical declaration `laugh' before initialization
+const laugh = 'haha'
+```
