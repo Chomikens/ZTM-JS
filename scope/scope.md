@@ -103,3 +103,20 @@ This behavior is called lexical scope.
 console.log(laugh) // ReferenceError: can't access lexical declaration `laugh' before initialization
 const laugh = 'haha'
 ```
+
+## Nested scopes 
+You can have functions in functions. When do this, you create a nested scope. 
+
+```js
+// Global scope
+function outerFunction() {
+  // outerFunction scope
+  function innerFunction() {
+    // innerFunction scope
+  }
+}
+```
+
+- Variables created in the global scope can be used in both outerFunction and innerFunction
+- Variables created in outerFunction can be used in innerFunction, but not in the global scope
+- Variables created in innerFunction can only be used in inner function
