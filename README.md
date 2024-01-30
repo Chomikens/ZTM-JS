@@ -29,7 +29,7 @@
     - [Control flow ](https://github.com/Chomikens/ZTM-JS/tree/4-controlFlow/control-flow)
     - [Operators](https://github.com/Chomikens/ZTM-JS/blob/5-logicalOperators/logical-operators.md)
 - ###  Advance: Control flow
-    - [Ternary operator]()
+    - [Ternary operator](https://github.com/Chomikens/ZTM-JS/blob/4b-adv-controlFlow/advance-control-flow/ternary.md#ternary-operator)
     - [Switch]()
 
 ## Functions 
