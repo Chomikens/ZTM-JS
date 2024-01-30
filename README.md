@@ -74,7 +74,10 @@
     - [The event loop](https://github.com/Chomikens/ZTM-JS/blob/13-events/events/event-loop.md)
 
 ## Manipulating text and content
-- [Changing Text and HTML](https://github.com/Chomikens/ZTM-JS/blob/14-DOMchange/changing-DOM/changeHTMLAndContent)
-- [Creating HTML Elements](https://github.com/Chomikens/ZTM-JS/blob/14-DOMchange/changing-DOM/createElement.md)
-    - [Adding multiple elements to the DOM](https://github.com/Chomikens/ZTM-JS/blob/14-DOMchange/changing-DOM/addMultipleElements.md)
-- [Removing Elements from the DOM](https://github.com/Chomikens/ZTM-JS/blob/14-DOMchange/changing-DOM/removeElement.md)
+- [Changing Text and HTML](https://github.com/Chomikens/ZTM-JS/blob/14-DOMchange/changing-DOM/changeHTMLAndContent.md#changing-text-and-html)
+- [Creating HTML Elements](https://github.com/Chomikens/ZTM-JS/blob/14-DOMchange/changing-DOM/createElement.md#creating-html-elements)
+    - [Adding multiple elements to the DOM](https://github.com/Chomikens/ZTM-JS/blob/14-DOMchange/changing-DOM/addMultipleElements.md#adding-multiple-elements-to-the-dom)
+- [Removing Elements from the DOM](https://github.com/Chomikens/ZTM-JS/blob/14-DOMchange/changing-DOM/removeElement.md#removing-elements-from-the-dom)
+
+## Project
+-[To do list - event delegation](https://github.com/Chomikens/ZTM-JS-DOM-Challange/blob/main/app.js)
