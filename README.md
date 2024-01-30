@@ -30,7 +30,7 @@
     - [Operators](https://github.com/Chomikens/ZTM-JS/blob/5-logicalOperators/logical-operators.md)
 - ###  Advance: Control flow
     - [Ternary operator](https://github.com/Chomikens/ZTM-JS/blob/4b-adv-controlFlow/advance-control-flow/ternary.md#ternary-operator)
-    - [Switch]()
+    - [Switch](https://github.com/Chomikens/ZTM-JS/blob/4b-adv-controlFlow/advance-control-flow/switch.md#switch)
 
 ## Functions 
 - ###  Basic
@@ -84,4 +84,4 @@
 - [Removing Elements from the DOM](https://github.com/Chomikens/ZTM-JS/blob/14-DOMchange/changing-DOM/removeElement.md#removing-elements-from-the-dom)
 
 ## Project
--[To do list - event delegation](https://github.com/Chomikens/ZTM-JS-DOM-Challange/blob/main/app.js)
+- [To do list - event delegation](https://github.com/Chomikens/ZTM-JS-DOM-Challange/blob/main/app.js)
