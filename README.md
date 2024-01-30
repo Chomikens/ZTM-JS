@@ -24,9 +24,13 @@
     - [`This` in object](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/this.md)
 
 ## Logic
-- [Comparions](https://github.com/Chomikens/ZTM-JS/blob/2-compations/comparions/comparions.md)
-- [Control flow ](https://github.com/Chomikens/ZTM-JS/tree/4-controlFlow/control-flow)
-- [Operators](https://github.com/Chomikens/ZTM-JS/blob/5-logicalOperators/logical-operators.md)
+- ###  Basic
+    - [Comparions](https://github.com/Chomikens/ZTM-JS/blob/2-compations/comparions/comparions.md)
+    - [Control flow ](https://github.com/Chomikens/ZTM-JS/tree/4-controlFlow/control-flow)
+    - [Operators](https://github.com/Chomikens/ZTM-JS/blob/5-logicalOperators/logical-operators.md)
+- ###  Advance: Control flow
+    - [Ternary operator]()
+    - [Switch]()
 
 ## Functions 
 - ###  Basic
