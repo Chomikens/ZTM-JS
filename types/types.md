@@ -34,7 +34,12 @@ console.log(a) // undefined
 ```
 
 - Symbol 
+ Symbol value is unique, and when you create a new symbol, it does not equal any other symbol. So, while symbols are passed by value, the value being passed is a unique identifier that doesn't match any other symbol. By they pass by value not by refference 
 ```js
+const sym1 = Symbol("foo")
+const sym2 = Symbol("foo")
+
+console.log(sym1 === sym2) // false 
 ``` 
 
 - BigInt (used to store big numbers)
