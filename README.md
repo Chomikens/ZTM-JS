@@ -36,6 +36,7 @@
 ## Functions 
 - ###  Basic
     - [Declaring](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/function.md)
+    - [Default values]()
     - [Passing params as argument](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/arguments-and-params.md)
     - [Scope](https://github.com/Chomikens/ZTM-JS/blob/15-scope/scope/scope.md#scope)
 -  ### Advanced
