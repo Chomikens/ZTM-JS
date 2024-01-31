@@ -22,7 +22,7 @@
     - [Object - basics](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/objects.md)
 - ### Object - advance   
     - [`This` in object](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/this.md)
-    - [Destucturing]()
+    - [Destucturing](https://github.com/Chomikens/ZTM-JS/blob/8b-destr/object-destucturing.md#destucturing)
 
 ## Logic
 - ###  Basic
