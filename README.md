@@ -41,6 +41,7 @@
     - [Scope](https://github.com/Chomikens/ZTM-JS/blob/15-scope/scope/scope.md#scope)
 -  ### Advanced
     - [Callback and async code - basic](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/callbacks.md)
+    -[Closure]()
 
 ## Loops 
  - [For, For in, For of, While, Do while](https://github.com/Chomikens/ZTM-JS/blob/9-loops/loops.md)
