@@ -64,3 +64,42 @@ const namesArray = exampleArray.map(extractName);
 console.log(namesArray); // It will contain an array of names from exampleArray.
 
 ```
+
+
+## findIndex
+The `findIndex` method is similar to the `find` method, but it returns the index of the first element in the array that satisfies the given condition. If no element is found, it returns -1. Here's the syntax and an example:
+
+### Syntax:
+```js
+const index = array.findIndex(callback(element, index, array));
+```
+### Example:
+```js
+// Using a named function to find the index of an element by a condition
+function findIndexLuke(element) {
+    return element.name === 'Luke';
+}
+
+const lukeIndex = exampleArray.findIndex(findIndexLuke);
+console.log(lukeIndex); // It will contain the index of the object with name 'Luke'.
+```
+
+## find 
+
+The `find` method is used to search for the first element in an array that satisfies a given condition. It returns the first element that passes the condition or `undefined` if no element is found. Here's the syntax and an example:
+
+### Syntax:
+```js
+const result = array.find(callback(element, index, array));
+```
+### Example:
+```js
+// Using a named function to find an element by a condition
+function findLuke(element) {
+    return element === 'Luke';
+}
+
+const luke = exampleArray.find(findLuke);
+console.log(luke); // It will contain the element with name 'Luke'.
+
+```
