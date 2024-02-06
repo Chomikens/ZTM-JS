@@ -15,18 +15,6 @@ const exampleArray = [
 ## ForEach 
 The forEach method is used to iterate through each item in an array. Unlike other higher-order functions like map or filter, forEach does not return a new array. Instead, it is used to execute a provided function once for each array element. This makes forEach ideal for performing operations or side effects on an array, without the need to create a new array as a result.
 
-### Important - return in forEach 
-forEach takes a callback function and executes it for each element of the array, but does not stop its operation when it encounters a return instruction in that callback function. A return instruction inside a function passed to forEach returns a value only for that callback function, but does not affect the operation of the forEach method as a whole.
-
-```js
-[1, 2, 3].forEach(num => {
-    if (num === 2) {
-        return; // It will only return for 2 but not rest
-    }
-    console.log(num); // Numbers 1 i 3 will be console.log.
-});
-```
-
 ### Syntax 
 ```js
 //With callback
@@ -44,3 +32,35 @@ exampleArray.forEach((element,index, array) => {
 })
 ```
 
+### Important - return in forEach 
+forEach takes a callback function and executes it for each element of the array, but does not stop its operation when it encounters a return instruction in that callback function. A return instruction inside a function passed to forEach returns a value only for that callback function, but does not affect the operation of the forEach method as a whole.
+
+```js
+[1, 2, 3].forEach(num => {
+    if (num === 2) {
+        return; // It will only return for 2 but not rest
+    }
+    console.log(num); // Numbers 1 i 3 will be console.log.
+});
+```
+
+## Map 
+The map method is used to create a new array by applying a given function to each element of the original array. It returns a new array with the results. Here's the syntax and an example: 
+
+### Syntax 
+```js
+const newArray = array.map(callback(element, index, array));
+
+```
+
+### Example 
+```js
+// Using a named function to extract just the names
+function extractName(element, index, array) {
+    return element.name;
+}
+
+const namesArray = exampleArray.map(extractName);
+console.log(namesArray); // It will contain an array of names from exampleArray.
+
+```
