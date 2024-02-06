@@ -123,3 +123,27 @@ const evenNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].filter(isEven);
 console.log(evenNumbers); // It will contain an array of even numbers [2, 4, 6, 8, 10].
 
 ```
+
+## reduce 
+The reduce method is used to accumulate or reduce an array of values into a single value by applying a given function to each element of the array. It iterates through the array and maintains a running total or accumulated result based on the function's logic. Here's the syntax and an example:
+
+### Syntax: 
+```js
+const result = array.reduce(callback(accumulator, currentValue, index, array), initialValue);
+
+```
+-   `callback`: A function that defines the logic for accumulating values. It takes four arguments:
+    -   `accumulator`: The accumulated result.
+    -   `currentValue`: The current element being processed.
+    -   `index`: The index of the current element.
+    -   `array`: The original array being iterated.
+-   `initialValue` (optional): An initial value for the accumulator. If provided, the accumulation starts with this value. If omitted, the first element of the array is used as the initial accumulator value.
+
+### Example: 
+```js
+// Using reduce to calculate the sum of all elements in an array
+const numbers = [1, 2, 3, 4, 5];
+const sum = numbers.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
+console.log(sum); // It will contain the sum of all numbers (15 in this case).
+
+```
