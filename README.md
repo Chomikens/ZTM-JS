@@ -53,6 +53,7 @@
 - [Logic](https://github.com/Chomikens/ZTM-JS/blob/2a-exerci/exercise-first/app-solutions.js)
 - [Control flow](https://github.com/Chomikens/ZTM-JS/blob/4a-exercise/exercises/app.js)
 - [Functions](https://github.com/Chomikens/ZTM-JS/blob/6a-exercise/exercise/app.js)
+- [Arrays methods](https://github.com/Chomikens/ZTM-JS/blob/7a-exercises/exercices/advance/exercise5.js)
 - [Object and arrays](https://github.com/Chomikens/ZTM-JS/blob/8a-exercises/exercise/app.js)
 
 ## Projects 
