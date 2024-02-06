@@ -60,7 +60,7 @@
 - [Destructuring](https://github.com/Chomikens/ZTM-JS/blob/8b-destr/object-destucturing.md#destucturing)
 
 #### Reference Types
- - [Reference types]()
+ - [Reference types](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/reference-types.md)
 
 ## DOM Manipulation
 
