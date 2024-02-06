@@ -66,7 +66,7 @@ const copyOfArray = [...array]
 function modifyItems(arr) {
   for (let i = 0; i < arr.length; i++) {
     for (let j = 0; j < arr[i].items.length; j++) {
-      arr[i].items[j] =  arr[i].items[j] + "!";
+      arr[i].items[j] += "!";
     }
   }
   return arr; // Return the modified array
@@ -74,4 +74,12 @@ function modifyItems(arr) {
 
 const mod = modifyItems(copyOfArray)
 console.log(mod)
+
+const anotherWayArray = array.map(object => {
+  object.items = object.items.map(el => {
+     return el + "!"
+ })
+ return object
+})
+console.log(nanotherWayArray)
 
