@@ -59,6 +59,9 @@
 - [`This` in object](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/this.md)
 - [Destructuring](https://github.com/Chomikens/ZTM-JS/blob/8b-destr/object-destucturing.md#destucturing)
 
+#### Reference Types
+ - [Reference types]()
+
 ## DOM Manipulation
 
 ### Introduction
