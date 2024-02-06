@@ -103,3 +103,23 @@ const luke = exampleArray.find(findLuke);
 console.log(luke); // It will contain the element with name 'Luke'.
 
 ```
+
+## filter 
+The filter method is used to create a new array containing all elements from the original array that satisfy a given condition. It returns a new array with elements that pass the condition. Here's the syntax and an example:
+
+### Syntax
+```js
+const filteredArray = array.filter(callback(element, index, array));
+```
+
+### Example 
+```js
+// Using a named function to filter elements by a condition
+function isEven(element) {
+    return element % 2 === 0;
+}
+
+const evenNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].filter(isEven);
+console.log(evenNumbers); // It will contain an array of even numbers [2, 4, 6, 8, 10].
+
+```
