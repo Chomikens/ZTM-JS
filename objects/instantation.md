@@ -11,7 +11,7 @@ class Player {
         this.class = class;
         this.name = name;
     }
-    introduce:() {
+    introduce() {
         console.log(`Hi Im ${this.name} and I'm ${this.class}`)
     }
 }
@@ -37,7 +37,7 @@ class Wizard extends Player {
             super(class, name) // By using super we call Parent class and inherit it constructor
             this.hasSpellBook = hasSpellBook;
     }
-      introduce:(){
+      introduce(){
         super.introduce() // Call to the parent class's method
       }
 }
