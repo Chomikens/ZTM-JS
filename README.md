@@ -104,7 +104,7 @@
 - [Functions](https://github.com/Chomikens/ZTM-JS/blob/6a-exercise/exercise/app.js)
 - [Arrays methods](https://github.com/Chomikens/ZTM-JS/blob/7a-exercises/exercices/advance/exercise5.js)
 - [Object and arrays](https://github.com/Chomikens/ZTM-JS/blob/8a-exercises/exercise/app.js)
-- [Objects: advance]()
+- [Objects: advance](https://github.com/Chomikens/ZTM-JS/blob/8a-exercises/exercise/advance-objects/app.js)
 
 ### Projects
 - [Objects and arrays - facebook](https://github.com/Chomikens/ZTM-JS/tree/8b-project/project)
