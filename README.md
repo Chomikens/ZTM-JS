@@ -57,6 +57,7 @@
 
 #### Object - advanced
 - [`This` in object](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/this.md)
+- [Instantation:Class, Extends and Super. Prototype Inheritance](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/instantation.md#instantation)
 - [Destructuring](https://github.com/Chomikens/ZTM-JS/blob/8b-destr/object-destucturing.md#destucturing)
 
 #### Reference Types
