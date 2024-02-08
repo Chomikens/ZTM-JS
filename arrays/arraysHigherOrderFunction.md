@@ -148,8 +148,10 @@ console.log(sum); // It will contain the sum of all numbers (15 in this case).
 
 ```
 
-## includes 
+## includes - (ES 7)
 The `includes` method determines whether an array includes a certain value among its entries, returning true or false as appropriate. It's a simple and efficient way to check for the presence of a value within an array.
+
+`includes` works differently when applied to `strings` versus when it's used on `arrays`. The behavior of includes is context-dependent—its functionality changes based on whether it's called on an array or a string, although the core idea remains the same: to check for the presence of an element within an array or a substring within a string.
 
 ### Syntax: 
 ```js
