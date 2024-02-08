@@ -27,11 +27,11 @@ class Animal {
 
 class Mamal extends Animal {
     constructor (animalName, animaType, animalColor) {
-        super (nimalName, animaType)
+        super (animalName, animaType)
         this.animalColor = animalColor;
     }
-    super(baseInfo) {
-        console.log(`I'm ${this.animalName} and ${this.animaType} also I'm this color: ${this.animalColor}`)
+    baseInfo() {
+        console.log(`I'm ${this.animalName}, a ${this.animaType}, and my color is ${this.animalColor}.`);
     }
 }
 
