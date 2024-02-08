@@ -147,3 +147,20 @@ const sum = numbers.reduce((accumulator, currentValue) => accumulator + currentV
 console.log(sum); // It will contain the sum of all numbers (15 in this case).
 
 ```
+
+## includes 
+The `includes` method determines whether an array includes a certain value among its entries, returning true or false as appropriate. It's a simple and efficient way to check for the presence of a value within an array.
+
+### Syntax: 
+```js
+const result = array.includes(/*value or variables*/)
+```
+
+
+### Example: 
+```js
+// Using includes to check if value exists
+const number = [1, 2, 3, 4, 5];
+const checkIf = numbers.includes(4);// true
+
+```
