@@ -51,6 +51,7 @@
 #### Arrays - advanced
 - [Advance: Higher-Order Methods: forEach, map, filter...](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysHigherOrderFunction.md)
   - [Return in forEach](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysHigherOrderFunction.md#important---return-in-foreach)
+  - [#ES7: Includes method](https://github.com/Chomikens/ZTM-JS/blob/7-arrays/arrays/arraysHigherOrderFunction.md#includes---es-7)
 
 #### Object - basic
 - [Object - basics](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/objects.md)
