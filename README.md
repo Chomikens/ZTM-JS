@@ -61,6 +61,7 @@
 - [Instantation:Class, Extends and Super. Prototype Inheritance](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/instantation.md#instantation)
 - [Destructuring](https://github.com/Chomikens/ZTM-JS/blob/8b-destr/object-destucturing.md#destucturing)
 - [Passing by reference](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/passingByReference.md#passing-by-reference-in-objects)
+- [#ES8: Object entries & Object values]()
 
 #### Reference Types
  - [Reference types](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/reference-types.md)
