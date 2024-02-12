@@ -10,6 +10,7 @@
 
 ### Data Types: Primitives
 - [Primitives types](https://github.com/Chomikens/ZTM-JS/blob/1-types/types/types.md)
+- [ES10: String - trimStart(), trimEnd()]()
 
 ### Logic
 #### Basic
