@@ -66,6 +66,7 @@
 - [#ES10: Object fromEntries](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/es10-object-from-entries.md#creating-objects-from-entries)
 - [#ES2020: optional chaining](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/optional-chaining.md#optional-chaining-operator-)
 - [#ES2020: nullish coalescing - intro](https://github.com/Chomikens/ZTM-JS/blob/5-logicalOperators/logical-operators.md#nullish-coalescing-operator-)
+- [#ES2020: Combining Optional Chaining and Nullish Coalescing](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/nullish-coalescing.md#combining-optional-chaining--and-nullish-coalescing-)
 
 #### Reference Types
  - [Reference types](https://github.com/Chomikens/ZTM-JS/blob/8-objects/objects/reference-types.md)
