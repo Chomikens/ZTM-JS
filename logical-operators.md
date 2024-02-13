@@ -28,6 +28,32 @@ Helpfull:
 const fullName = firstName || 'Guest'
 ```
 
+## Nullish Coalescing Operator (`??`)
+The Nullish Coalescing Operator (`??`) is a logical operator that returns its right-hand side operand when its left-hand side operand is `null` or `undefined`, and otherwise returns its left-hand side operand. This is useful for assigning default values.
+
+
+### Syntax
+
+```javascript
+leftExpr ?? rightExpr` 
+```
+### Example
+
+```javascript
+const nullValue = null;
+const undefinedValue = undefined;
+const text = ''; // Empty string is considered a valid value
+const defaultValue = 'Default';
+
+console.log(nullValue ?? defaultValue); // "Default"
+console.log(undefinedValue ?? defaultValue); // "Default"
+console.log(text ?? defaultValue); // ""` 
+```
+### Use Cases
+
+-   Setting default values for variables that might be `null` or `undefined`
+-   Working with potentially missing data without resorting to OR `||` operator which considers any falsy value (e.g., `0`, `''`, `false`) as default trigger
+
 ## Not `!`
 The ! operator is a unary operator that takes a single operand and inverts its boolean value.
 - If the operand is true, the ! operator returns false.
