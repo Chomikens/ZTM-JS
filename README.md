@@ -109,7 +109,7 @@
 - [Arrays methods](https://github.com/Chomikens/ZTM-JS/blob/7a-exercises/exercices/advance/exercise5.js)
 - [Object and arrays](https://github.com/Chomikens/ZTM-JS/blob/8a-exercises/exercise/app.js)
 - [Objects: advance](https://github.com/Chomikens/ZTM-JS/blob/8a-exercises/exercise/advance-objects/app.js)
-- [Advance loops]()
+- [Advance loops](https://github.com/Chomikens/ZTM-JS/blob/9a-loops-exerc/advanced-looping-exercise.js)
 
 ### Projects
 - [Objects and arrays - facebook](https://github.com/Chomikens/ZTM-JS/tree/8b-project/project)
