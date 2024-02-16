@@ -7,6 +7,7 @@
 - [JS Engine - intro](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/js-engine.md#js-engine)
 - [Interpreters and Compilers](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/interpreters-and-compilers.md#interpreters-and-compilers)
   - [JIT Compilers](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/jit-compiler.md#just-in-time-jit-compiler-explained)
+- [How to write optimised code for engine]()
 
 ## Fundamentals
 
