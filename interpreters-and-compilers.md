@@ -11,7 +11,7 @@ In programming, translating high-level code into machine language (or another fo
     -   **Immediate Execution**: Since interpretation happens in real-time, it is easier to debug and test code because you can get immediate feedback.
     -   **Portability**: Interpreted languages can run on any platform without the need for recompilation since the interpreter itself handles the execution.
 -   **Disadvantages**:
-    -   **Speed**: Interpreted code runs slower than compiled code because the source code is analyzed and executed on the fly.
+    -   **Speed**: Interpreted code runs slower than compiled code because the source code is analyzed and executed on the fly (for example in loops).
 
 ## Compilers
 
