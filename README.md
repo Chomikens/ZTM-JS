@@ -11,6 +11,7 @@
   - [Stack overflow](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/callstack.md#the-call-stack-in-javascript)
 - [Memory Heap](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/callstack.md#the-call-stack-in-javascript) 
   - [Garbage Collection]()
+  - [Memory Leaks]()
 - [How to write optimised code for engine](https://github.com/Chomikens/ZTM-JS/blob/0b-optimised-code/how-to-write-optimised-code.md#how-to-write-optimiesed-code)
 
 ## Fundamentals
