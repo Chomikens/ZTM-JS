@@ -10,7 +10,7 @@
 - [CallStack](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/callstack.md#the-call-stack-in-javascript)
   - [Stack overflow](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/stack-overflow.md)
 - [Execution Context](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/execution-context.md#execution-context)
-- [Memory Heap](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/callstack.md#the-call-stack-in-javascript) 
+- [Memory Heap](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/memory-heap.md#what-is-the-memory-heap) 
   - [Garbage Collection](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/garbage-collection.md#garbage-collection-in-javascript)
   - [Memory Leaks](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/memory-leaks.md#memory-leaks-in-javascript)
 - [Lexical Environment]()  
