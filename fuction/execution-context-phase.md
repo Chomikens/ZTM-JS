@@ -17,3 +17,20 @@ During the creation phase, before the code is actually executed line by line, Ja
 After the creation phase, the execution phase begins. This is where the JavaScript engine executes the code line by line. Now, thanks to hoisting, all function declarations and variables declared with `var` are already known and accessible within their scope, even before the code that declares them is actually executed.
 
 In summary, yes, hoisting occurs during the creation phase of the execution context, setting the stage for a smooth execution phase where functions and variables are already known to the JavaScript engine.
+
+
+```js
+
+//Variable Environement
+function two() {
+  var isValid; // 5. isValid is undefined in this execution context.
+}
+
+function one() {
+  var isValid = true; // 3. this variable will be put into the new execution context. It's own variable environment
+  two(); // 4. New execution context created.
+}
+
+var isValid = false; // 1. Global variable is created as undefined. Then during execution, it changes in memory to false.
+console.log(one()) // 2. New execution context is created on top of the stack.
+```
