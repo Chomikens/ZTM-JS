@@ -13,7 +13,7 @@
 - [Memory Heap](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/memory-heap.md#what-is-the-memory-heap) 
   - [Garbage Collection](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/garbage-collection.md#garbage-collection-in-javascript)
   - [Memory Leaks](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/memory-leaks.md#memory-leaks-in-javascript)
-- [Lexical Environment]()  
+- [Hoisting](https://github.com/Chomikens/ZTM-JS/blob/0a-js-engine/hoisting.md#hoisting-a-simple-guide)  
 - [How to write optimised code for engine](https://github.com/Chomikens/ZTM-JS/blob/0b-optimised-code/how-to-write-optimised-code.md#how-to-write-optimiesed-code)
 
 ## Fundamentals
