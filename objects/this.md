@@ -1,5 +1,8 @@
 # This in objects 
 
+Short def: 
+This is the object that the function is a property of
+
  In JavaScript, the this keyword is a special variable that refers to the current context or object within which it is used. Its behavior can sometimes be a bit tricky to grasp, as it depends on how and where it is employed. Here are some important points to understand about this:
 
  ### "this" in object methods:
