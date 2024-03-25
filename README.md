@@ -42,6 +42,7 @@
 - [Default values](https://github.com/Chomikens/ZTM-JS/blob/6b-default-values/function-default-values.md#function-defaut-values)
 - [Passing params as argument](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/arguments-and-params.md)
 - [Scope](https://github.com/Chomikens/ZTM-JS/blob/15-scope/scope/scope.md#scope)
+- [Immediately Invoked Function Expressions (IIFE)]()
 
 #### Advanced
 - [Callback and async code - basic](https://github.com/Chomikens/ZTM-JS/blob/6-function/fuction/callbacks.md)
